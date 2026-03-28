@@ -1,6 +1,7 @@
 # 🚀 React JS Project
 
 ## 👥 Kelompok 2
+nb: project ada di branch "MASTER"
 
 ### 📌 Anggota:
 
