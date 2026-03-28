@@ -1,0 +1,28 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #ff58e3 0%, #fa9ffc 100%);
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  padding: 24px;
+}
+
+.app-header {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 16px;
+  padding: 32px;
+  text-align: center;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.15);
+}
+
+.app-header h1 {
+  margin-bottom: 16px;
+}
+
+.app-header p {
+  margin: 8px 0;
+  font-size: 1.1rem;
+}
